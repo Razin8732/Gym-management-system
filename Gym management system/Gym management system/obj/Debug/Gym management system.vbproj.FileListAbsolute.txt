@@ -1,0 +1,68 @@
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\Gym managment system.dll.config
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\Gym managment system.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\Gym managment system.pdb
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\Gym managment system.xml
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\csc.exe
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\csc.exe.config
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\csc.rsp
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\csi.exe
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\csi.exe.config
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\csi.rsp
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\Microsoft.Managed.Core.targets
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.AppContext.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.Collections.Immutable.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.Console.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.IO.Compression.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.IO.FileSystem.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.IO.Pipes.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.Reflection.Metadata.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.Security.AccessControl.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.Security.Claims.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.Security.Principal.Windows.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.ValueTuple.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.Xml.XmlDocument.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.Xml.XPath.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\vbc.exe
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\vbc.exe.config
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\vbc.rsp
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\VBCSCompiler.exe
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\roslyn\VBCSCompiler.exe.config
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\Newtonsoft.Json.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\System.Net.Http.Formatting.xml
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\System.Web.Http.xml
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\System.Web.Http.WebHost.xml
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\obj\Debug\Gym management system.vbprojAssemblyReference.cache
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\obj\Debug\Gym_managment_system.Resources.resources
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\obj\Debug\Gym management system.vbproj.GenerateResource.cache
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\obj\Debug\Gym management system.vbproj.CoreCompileInputs.cache
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\obj\Debug\Gym management system.vbproj.CopyComplete
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\obj\Debug\Gym managment system.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\obj\Debug\Gym managment system.xml
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\obj\Debug\Gym managment system.pdb
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\System.Net.Http.Formatting.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\System.Web.Http.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\System.Web.Http.WebHost.dll
+E:\RAZIN SHAIKH\ASP.NET\Gym management system\Gym management system\bin\Newtonsoft.Json.xml
